@@ -1,55 +1,66 @@
-#home_menu>div>div.home_menu_button_2{
+#home_menu>div>div.home_menu_button_2 {
     width: 8rem;
     border-right: solid white 0.05rem;
 }
-.home_menu_hotline_header{
+
+.home_menu_hotline_header {
     width: 4.5rem!important;
     position: absolute;
     z-index: 1;
     margin-left: 10rem;
     margin-top: -2.005rem;
 }
-.hotline_number:before{
+
+.hotline_number:before {
     background: unset;
     background-size: unset;
 }
-.home_menu_contain{
+
+.home_menu_contain {
     background: #0e6fc0;
 }
-.hotline_number_text{
+
+.hotline_number_text {
     font-style: italic;
-    padding-left:1rem;
+    padding-left: 1rem;
 }
-.hotline_number_phone,.hotline_number_text{
+
+.hotline_number_phone,
+.hotline_number_text {
     float: left;
     line-height: 0.75rem;
 }
-.header_icon_hotline{
+
+.header_icon_hotline {
     position: absolute;
     margin-left: -2.75rem;
     width: 0.75rem;
     height: 0.75rem;
     object-fit: contain;
 }
-.section_2_button, .section_2_button_end{
+
+.section_2_button,
+.section_2_button_end {
     background: #1289d1;
 }
-.section_2_button_end{
-    border-left-color:#1289d1;
+
+.section_2_button_end {
+    border-left-color: #1289d1;
 }
-#section_2{
-    margin-top:0.05rem;
+
+#section_2 {
+    margin-top: 0.05rem;
 }
-.img-navbar{
+
+.img-navbar {
     width: 1rem;
     height: 1.5rem;
-    object-fit:contain;
+    object-fit: contain;
 }
 
-#section_2023_05_16_1{
+#section_2023_05_16_1 {}
 
-}
-.contain_2023_05_16_1{
+.contain_2023_05_16_1 {
     width: 14rem;
     margin: auto;
     height: 7rem;
@@ -59,46 +70,55 @@
     background-size: contain;
     margin-top: 1.5rem;
 }
-.title_2023_05_16_1{
+
+.title_2023_05_16_1 {
     text-align: center;
     margin-top: 4.75rem;
     position: absolute;
     margin-left: 5.1rem;
 }
-.title_2023_05_16_1_line_1{
+
+.title_2023_05_16_1_line_1 {
     font-size: 0.625rem;
     font-weight: 700;
     color: #1d72c2;
     line-height: 0.75rem;
     text-transform: uppercase;
 }
-.title_2023_05_16_1_line_2{
+
+.title_2023_05_16_1_line_2 {
     font-size: 1rem;
     font-weight: 700;
     text-transform: uppercase;
     color: #1d72c2;
     line-height: 0.95rem;
 }
-.image_2023_05_16_1_1{
+
+.image_2023_05_16_1_1 {
     position: absolute;
     margin-top: 3.75rem;
     margin-left: 0.5rem;
 }
-.image_2023_05_16_1_2{
+
+.image_2023_05_16_1_2 {
     position: absolute;
     margin-left: 3.75rem;
-    margin-top: 0.35rem;}
-.image_2023_05_16_1_3{
+    margin-top: 0.35rem;
+}
+
+.image_2023_05_16_1_3 {
     position: absolute;
     margin-top: 0.35rem;
     margin-left: 8.25rem;
 }
-.image_2023_05_16_1_4{
+
+.image_2023_05_16_1_4 {
     position: absolute;
     margin-top: 3.65rem;
     margin-left: 11.55rem;
 }
-.button_2023_05_16_1_1{
+
+.button_2023_05_16_1_1 {
     color: white;
     position: absolute;
     margin-top: 4.5rem;
@@ -108,7 +128,8 @@
     font-weight: 700;
     line-height: 0.7rem;
 }
-.button_2023_05_16_1_2{
+
+.button_2023_05_16_1_2 {
     color: white;
     position: absolute;
     margin-left: 4.5rem;
@@ -118,7 +139,8 @@
     text-align: center;
     text-transform: uppercase;
 }
-.button_2023_05_16_1_3{
+
+.button_2023_05_16_1_3 {
     color: white;
     position: absolute;
     margin-left: 7.5rem;
@@ -128,7 +150,8 @@
     text-transform: uppercase;
     font-weight: 700;
 }
-.button_2023_05_16_1_4{
+
+.button_2023_05_16_1_4 {
     color: white;
     position: absolute;
     margin-left: 9.65rem;
@@ -137,26 +160,29 @@
     font-weight: 700;
     text-transform: uppercase;
 }
-#section_2023_05_16_2{
+
+#section_2023_05_16_2 {
     padding-top: 1rem;
 }
+
 .h2_title {
     color: black;
     background-image: url(../images/2023_05_16/h2_title_bg.webp);
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     font-weight: 700;
     line-height: 1.5rem;
 }
-.text_2023_05_16_2{
+
+.text_2023_05_16_2 {
     width: 14rem;
-    margin:auto;
-    margin-top:0.5rem;
+    margin: auto;
+    margin-top: 0.5rem;
     text-align: justify;
 }
 
-.h2_black_text{
+.h2_black_text {
     color: black;
     font-weight: 700;
     line-height: 1.5rem;
@@ -168,11 +194,166 @@
     text-transform: uppercase;
 }
 
-#section_2023_05_16_3{
+#section_2023_05_16_3 {
     background-image: url(../images/2023_05_16/section_2023_05_16_3_bg.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
     height: 8.3rem;
 }
-.contain_2023_05_16_3{}
+
+.contain_2023_05_16_3 {}
+
+.start_time_hour {
+    position: absolute;
+    color: white;
+    font-size: 1rem;
+    margin-left: 4rem;
+    margin-top: 1.1rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.start_time_minute {
+    position: absolute;
+    color: white;
+    font-size: 1rem;
+    margin-left: 5.75rem;
+    margin-top: 1.1rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.end_time_hour {
+    position: absolute;
+    color: white;
+    font-size: 1rem;
+    margin-left: 8.9rem;
+    margin-top: 1.1rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.end_time_minute {
+    position: absolute;
+    color: white;
+    font-size: 1rem;
+    margin-left: 11rem;
+    margin-top: 1.1rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.hotline_2023_05_16_3 {
+    background-color: red;
+    width: 9rem;
+    position: absolute;
+    margin-left: 3.5rem;
+    line-height: 1.25rem;
+    border-radius: 0.5rem;
+    margin-top: 3.75rem;
+    text-align: center;
+    font-size: 0.6rem;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+}
+
+.hotline_2023_05_16_3_text {}
+
+.hotline_2023_05_16_3_number {
+    color: white;
+    font-size: 0.75rem;
+    line-height: 1.5rem;
+    cursor: pointer;
+}
+
+.hotline_2023_05_16_3_number:hover {
+    color: white;
+}
+
+#section_2023_05_16_4 {
+    padding-top: 1rem;
+}
+
+#section_2023_05_16_5 {
+    padding-top: 1rem;
+}
+
+.contain_2023_05_16_5 {
+    width: 16rem;
+}
+
+.button_2023_05_16_5 {
+    background-image: url(../images/2023_05_16/button_2023_05_16_5_bg.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 7.65rem;
+    height: 3.5rem;
+    margin-left: 0.175rem;
+    display: inline-block;
+    margin-top: 0.5rem;
+}
+
+.image_2023_05_16_5 {
+    position: absolute;
+    margin-left: 0.79rem;
+    margin-top: 0.5rem;
+    width: 1.5rem;
+    height: 2.25rem;
+    object-fit: contain;
+}
+
+.text_2023_05_16_5 {
+    position: absolute;
+    width: 4rem;
+    margin-top: 0.5rem;
+    margin-left: 2.75rem;
+    line-height: 0.75rem;
+    font-size: 0.5rem;
+}
+
+.end_contain_2023_05_16_5 {
+    background-image: url(../images/2023_05_16/end_contain_2023_05_16_5_bg.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 10.8rem;
+}
+
+.total_button_2023_05_16_5 {
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    width: 1.5rem;
+    margin-left: 7rem;
+    margin-top: 1rem;
+    position: absolute;
+    font-style: italic;
+}
+
+.end_section_green {
+    height: 0.25rem;
+    background: #337cbf;
+    margin-top: 1rem;
+}
+
+#section_12,
+#section_17 {
+    background: #0e6fc0;
+}
+
+.nhap_so_dien_thoai {
+    background: linear-gradient(90deg, #0b89c0 88%, #0b89c0 12%);
+}
+
+.site-info .sticker-7rem {
+    background-color: #1285cf;
+    width: 7rem;
+}
+
+.site-info .sticker-5rem {
+    background-color: #0952ab;
+}
